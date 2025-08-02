@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import healthcareImg from "../assets/AI in Healthcare- Real Case Studies.webp";
-import businessImg from "../assets/Building Custom AI Assistants for Business.png";
+import businessImg from "../assets/Building Custom AI Assistants for Business-min.png";
 import openSourceImg from "../assets/Open Source AI Projects to Watch.webp";
 import aiImg from '../assets/ai.webp';
 import heroVideo from "../assets/hero.mp4";
