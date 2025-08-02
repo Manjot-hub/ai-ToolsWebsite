@@ -2,7 +2,7 @@ import React from "react";
 import { useParams, Link } from "react-router-dom";
 import { useTheme } from "../context/ThemeContext";
 import healthcareImg from "../assets/AI in Healthcare- Real Case Studies.webp";
-import businessImg from "../assets/Building Custom AI Assistants for Business.png";
+import businessImg from "../assets/Building Custom AI Assistants for Business-min.png";
 import openSourceImg from "../assets/Open Source AI Projects to Watch.webp";
 
 const picks = [
